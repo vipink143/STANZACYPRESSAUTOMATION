@@ -1,0 +1,17 @@
+
+
+{
+
+    "loginPageLocators" :  {
+
+        "username_text": "input[name='username']",
+        "password_text": "input[name='password']",
+        "login_button": "button[type='submit']"
+
+
+
+
+
+          }
+
+}
